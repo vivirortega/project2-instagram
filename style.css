@@ -455,4 +455,20 @@ p>b {
     .coments__bar {
         margin-bottom: 60px;
     }
+    .img__post {
+        width: 100%;
+    }
+    .story__ann {
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+    .story__akechi,
+    .story__futaba,
+    .story__makoto,
+    .story__joker,
+    .story__morgana,
+    .story__sumire,
+    .story__yosuke {
+        margin-right: 3px;
+    }
 }
