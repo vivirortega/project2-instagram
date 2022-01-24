@@ -458,19 +458,21 @@ p>b {
         width: 100%;
     }
     .story__ann {
-        margin-left: 5px;
-        margin-right: 3px;
+        margin-left: 0px;
+        margin-right: 0px;
     }
     .story__akechi,
-    .story__futaba,
     .story__makoto,
     .story__joker,
     .story__morgana,
-    .story__sumire,
-    .story__yosuke {
+    .story__sumire {
         margin-right: 0px;
     }
     .username {
         justify-content: center;
+    }
+    .story__yosuke,
+    .story__futaba {
+        display: none;
     }
 }
