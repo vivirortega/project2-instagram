@@ -403,6 +403,11 @@ p>b {
         display: flex;
         justify-content: space-between;
         align-items: center;
+        position: fixed;
+        bottom: 1px;
+        right: 0;
+        left: 0;
+        z-index: 1;
     }
     .inferior__heart,
     .inferior__circle,
@@ -437,5 +442,15 @@ p>b {
     .instagram__icon,
     .navigation__outline {
         font-size: 30px;
+    }
+    .story__bar {
+        margin-top: 40px;
+    }
+    .post__instagram {
+        margin-top: 0;
+        margin-bottom: 35px;
+    }
+    .coments__bar {
+        margin-bottom: 60px;
     }
 }
