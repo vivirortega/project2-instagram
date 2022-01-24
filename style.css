@@ -418,6 +418,7 @@ p>b {
     }
     .story__bar {
         margin-left: 0;
+        width: 614px;
     }
     .post__instagram {
         margin-left: 0;
@@ -449,6 +450,7 @@ p>b {
     .post__instagram {
         margin-top: 0;
         margin-bottom: 35px;
+        width: 612px;
     }
     .coments__bar {
         margin-bottom: 60px;
