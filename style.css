@@ -63,6 +63,7 @@
     font-size: 12px;
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .all__content {
@@ -419,6 +420,7 @@ p>b {
     .story__bar {
         margin-left: 0;
         width: 100%;
+        margin-top: 40px;
     }
     .post__instagram {
         margin-left: 0;
@@ -444,9 +446,6 @@ p>b {
     .navigation__outline {
         font-size: 30px;
     }
-    .story__bar {
-        margin-top: 40px;
-    }
     .post__instagram {
         margin-top: 0;
         margin-bottom: 35px;
@@ -459,8 +458,8 @@ p>b {
         width: 100%;
     }
     .story__ann {
-        margin-left: 10px;
-        margin-right: 5px;
+        margin-left: 5px;
+        margin-right: 3px;
     }
     .story__akechi,
     .story__futaba,
@@ -469,6 +468,9 @@ p>b {
     .story__morgana,
     .story__sumire,
     .story__yosuke {
-        margin-right: 3px;
+        margin-right: 0px;
+    }
+    .username {
+        justify-content: center;
     }
 }
